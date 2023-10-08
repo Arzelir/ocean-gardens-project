@@ -1,0 +1,10 @@
+body {
+  margin: 2%;
+  background-color: rgb(16, 42, 80);
+  font-family: 'Montserrat', sans-serif;
+}
+
+p1{
+ text-align: justify;
+ width: 50%;
+}
