@@ -4,7 +4,31 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-p1{
+p1 {
  text-align: justify;
  width: 50%;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 18px 25px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #91a0b0;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #0c5b94;
+  color: white;
 }
