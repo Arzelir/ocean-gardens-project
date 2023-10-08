@@ -32,3 +32,9 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+
+  img{
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+  }
