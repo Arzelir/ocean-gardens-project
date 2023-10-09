@@ -35,3 +35,8 @@ p1 {
   background-color: #0c5b94;
   color: white;
 }
+
+li {
+  color: white;
+  font-size: large;
+}
