@@ -4,5 +4,5 @@ Creating a visual website comparing the phytoplankton in the oceans to farms and
 
 This project was completed by:
 Yaseen Qazi
-Shatat 
+Shatat Al Hamid
 Khadija Majeed
