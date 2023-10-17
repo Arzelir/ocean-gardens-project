@@ -5,11 +5,12 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-p1 {
+p {
   /* Description */
   text-align: justify;
-  width: 50%;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat Light;
+  font-size: 23px;
+  color: white;
 }
 
 .topnav {
@@ -50,4 +51,16 @@ h1{
   color: lightblue;
   font-family: Montserrat;
   src: url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300);
+}
+
+.spacing{
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+h2{
+  color: white;
+  font-family: Montserrat;
+  src: url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300);
+  font-size: 33px;
 }
