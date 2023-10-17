@@ -41,3 +41,13 @@ li {
   color: white;
   font-size: large;
 }
+
+.header{
+  background-image:url(Pictures\template_pic.jpeg);
+}
+
+h1{
+  color: lightblue;
+  font-family: Montserrat;
+  src: url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300);
+}
