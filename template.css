@@ -45,22 +45,22 @@ li {
   font-size: large;
 }
 
-h1{
+h1 {
   color: lightblue;
   font-family: Montserrat;
   src: url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300);
   padding-top: 100px;
 }
 
-h2{
+h2 {
   color: white;
   font-family: Montserrat;
   src: url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300);
   font-size: 33px;
 }
 
-.header{
-  background-image:url(Pictures\template_pic.jpeg);
+.header {
+  background-image: url(Pictures\template_pic.jpeg);
   opacity: 45%;
   display: block;
   margin-left: auto;
@@ -70,7 +70,7 @@ h2{
   padding-top: 10px;
 }
 
-.spacing{
+.spacing {
   padding-top: 5px;
   padding-bottom: 10px;
 }
